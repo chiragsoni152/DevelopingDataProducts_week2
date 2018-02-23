@@ -3,9 +3,7 @@ title: "Developing Data Products Week 2"
 author: "Chirag Soni"
 output:
   html_document: default
-  pdf_document:
-    citation_package: natbib
-  word_document: null
+  
 ---
   
 ## Executive Summary  
